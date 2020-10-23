@@ -1,1 +1,2 @@
+Added a new first line on the top of the file.
 HI there, this is a sample text file.
